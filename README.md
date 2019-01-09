@@ -4,7 +4,7 @@ svg renderer for fastn
 
 # usage
 
-```
+```javascript
 var svgComponent = require('fastn-svg-component');
 var fastn = require('fastn')(
     require('fastn/domComponents')({
